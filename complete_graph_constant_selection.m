@@ -1,5 +1,5 @@
 k = 5;
-f=0;
+f=0.01;
 num_blocks = 2*(k-2);
 blocks = cell(2,num_blocks/2);
 
